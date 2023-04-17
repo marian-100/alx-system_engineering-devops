@@ -1,0 +1,25 @@
+total 160
+drwxr-xr-x 2 root root  4096 Apr 17 15:06 .
+drwxr-xr-x 6 root root   121 Apr 17 12:04 ..
+-rwxr--r-- 1 root root    32 Apr 17 12:45 0-hello_world
+-rwxr--r-- 1 root root    28 Apr 17 13:01 1-confused_smiley
+-rw------- 1 root root 12288 Apr 17 12:58 .1-confused_smiley.swn
+-rw------- 1 root root 12288 Apr 17 12:55 .1-confused_smiley.swo
+-rw------- 1 root root 12288 Apr 17 12:52 .1-confused_smiley.swp
+-rwxr--r-- 1 root root    28 Apr 17 13:07 2-hellofile
+-rwxr--r-- 1 root root    39 Apr 17 13:14 3-twofiles
+-rwxr--r-- 1 root root    29 Apr 17 13:19 4-lastlines
+-rwxr--r-- 1 root root    29 Apr 17 13:39 5-firstlines
+-rwxr--r-- 1 root root    41 Apr 17 14:00 6-third_line
+-rw------- 1 root root 12288 Apr 17 13:42 .6-third_line.swp
+-rwxr--r-- 1 root root    93 Apr 17 14:38 7-file
+-rw-r--r-- 1 root root 12288 Apr 17 14:19 .7-file.swo
+-rw------- 1 root root 12288 Apr 17 14:04 .7-file.swp
+-rwxr--r-- 1 root root    36 Apr 17 15:05 8-cwd_state
+-rw------- 1 root root 12288 Apr 17 14:57 .8-cwd_state.swp
+-rw-r--r-- 1 root root    12 Apr 17 14:18 \*\\'"Best School"\'\\*$\?\*\*\*\*\\*:)
+-rw-r--r-- 1 root root    12 Apr 17 14:38 \\\\\"Best\School\"\\\\\\$\?\\\\\\\*:)
+-rw-r--r-- 1 root root     0 Apr 17 15:06 ls_cwd_content
+-rw-r--r-- 1 root root    40 Apr 17 12:48 README.md
+-rw------- 1 root root 12288 Apr 17 12:27 .README.md.swp
+-rw------- 1 root root 12288 Apr 17 15:03 .swp
